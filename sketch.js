@@ -28,7 +28,7 @@ function setup() {
 	rubber=new Rubber(900,450,70)
 	hammer=new Hammer(10,100)
 
-	sand1=new sand1(505,450,10)
+	sand1=new Sand(505,450,10)
 	sand2=new Sand(510,450,10)
 	sand3=new Sand(515,450,10)
 	sand4=new Sand(520,450,10)
