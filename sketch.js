@@ -7,6 +7,7 @@ const Body = Matter.Body;
 var engine, world;
 var stone, rubber, hammer;
 var sand1, sand2, sand3, sand4, sand5;
+var Sand;
 
 function preload()
 {
